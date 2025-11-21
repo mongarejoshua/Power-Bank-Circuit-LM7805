@@ -1,0 +1,24 @@
+# KiCad Temporary and Backup Files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl       # Local project settings
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Exported Files (Gerbers, BOMs, Netlists)
+*.net
+*.dsn
+*.ses
+*.xml
+*.csv
+
+# Log files
+*.log
